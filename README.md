@@ -31,16 +31,16 @@ The Turf Booking System is a comprehensive management solution designed for turf
 ## Preview
 <table>
 
-  <tr>
+  
    ![image](https://github.com/Yadavabhi12911/Turf-Management-System/assets/142441508/5dcbe1dd-8d84-4d35-9cb9-e81b33d2cd1d)
-  </tr>
+  
 
-     <tr>  
+      
  ![image](https://github.com/Yadavabhi12911/Turf-Management-System/assets/142441508/e69633ef-9cf3-409e-aa0d-9225bc00e4e9)
-  </tr>
-  <tr>
+  
+  
    ![image](https://github.com/Yadavabhi12911/Turf-Management-System/assets/142441508/88d144c4-8f30-4832-874c-e894ef4b042f)
-</tr>
+
 </table>
 
 ## Installation
